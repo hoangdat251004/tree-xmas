@@ -2,7 +2,7 @@ import turtle as t
 from turtle import *
 import random as r
 import time
-# lụm dạo mang she, các pri cót tha mik
+
 n = 100.0
 speed("fastest")
 screensize(bg='black')
